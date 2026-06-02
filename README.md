@@ -18,3 +18,8 @@ This project is open source.
 
 ## Author
 Silence9630
+# New feature added with a friend!
+
+
+## Co-Authors
+This project was created with collaboration from multiple developers.
